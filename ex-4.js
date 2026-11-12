@@ -2,12 +2,12 @@
 50 + 12; // Expression
 
 //Exercise #4: What is Expression Start coding here
-130 + 300;
-let zero = 1000 - 1000;
-20 * 120;
-1000 / 2;
-typeof true;
-let name = "John";
-3 > 5;
-10 == 100;
+130 + 300;  // this is an expression
+let zero = 1000 - 1000;  // this is statement
+20 * 120;  // this is an expression
+1000 / 2;  // this is an expression
+typeof true;  // this is an expression
+let name = "John";  // this is statement
+3 > 5;  // this is an expression
+10 == 100;  // this is an expression
 200;
